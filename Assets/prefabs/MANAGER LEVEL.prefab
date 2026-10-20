@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6223552442908328076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6955681164475676778}
+  - component: {fileID: 3960559949020176056}
+  - component: {fileID: 8430349648753449291}
+  - component: {fileID: 8169036748737443433}
+  m_Layer: 0
+  m_Name: MANAGER LEVEL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6955681164475676778
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223552442908328076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.76776, y: 301.4678, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3960559949020176056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223552442908328076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a6fe20d40505148a455e24f953b14f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::nivel1manager
+  player: {fileID: 0}
+  rooms:
+  - area: {fileID: 0}
+    camaraObject: {fileID: 0}
+  - area: {fileID: 0}
+    camaraObject: {fileID: 0}
+  - area: {fileID: 0}
+    camaraObject: {fileID: 0}
+  indiceCentro: 1
+  luzCentral: {fileID: 0}
+--- !u!114 &8430349648753449291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223552442908328076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 013c332648d69ff488853e38fadd02e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Cuentaregresiva
+  validadorFinal: {fileID: 8169036748737443433}
+  playerScript: {fileID: 0}
+  colorInicial: {r: 1, g: 1, b: 1, a: 1}
+  colorFinal: {r: 1, g: 0, b: 0, a: 1}
+  tamanoTextoInicial: 18
+  tamanoTextoFinal: 300
+  tiempoInicial: 1
+  textoTimer: {fileID: 0}
+--- !u!114 &8169036748737443433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223552442908328076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daf58e77f0adb6148af4e6091f9208e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::validadordenivel
+  fadeinresults: {fileID: 0}
+  playerScript: {fileID: 0}
+  cuentaRegresiva: {fileID: 8430349648753449291}

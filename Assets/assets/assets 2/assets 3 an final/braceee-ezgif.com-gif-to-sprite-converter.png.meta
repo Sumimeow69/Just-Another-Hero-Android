@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 36a3a95c8c7105d4d8e123ed6a8ca96e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8894550771971318215
+    second: braceee-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 954413037035118649
+    second: braceee-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -4869485649889780865
+    second: braceee-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 8106785713928817260
+    second: braceee-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -3771787131465770177
+    second: braceee-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 2061087231078152872
+    second: braceee-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -6362869782210722034
+    second: braceee-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 8373908328590750090
+    second: braceee-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 6386121778989629131
+    second: braceee-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 4860049075161917226
+    second: braceee-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -4329106636583364800
+    second: braceee-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 112293693606441642
+    second: braceee-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 1892716179092072002
+    second: braceee-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -1261893913446282345
+    second: braceee-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 3943253444065004906
+    second: braceee-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 8047391765766461515
+    second: braceee-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 1987499016378408601
+    second: braceee-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -832957502080578838
+    second: braceee-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 4075902369770085297
+    second: braceee-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 3399248520437100419
+    second: braceee-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -7774593420376165022
+    second: braceee-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 8203731574342222047
+    second: braceee-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -2492584407858142405
+    second: braceee-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -7177678881072909312
+    second: braceee-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 6808479676852442374
+    second: braceee-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -3995950369692145509
+    second: braceee-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -3316845149084256398
+    second: braceee-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -5729281548660505173
+    second: braceee-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -2713306914159759287
+    second: braceee-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 7415814813786595662
+    second: braceee-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -3221206048721814726
+    second: braceee-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 3188811431159965611
+    second: braceee-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -3292602141505054566
+    second: braceee-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 7958787516844338615
+    second: braceee-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 3801771480162041762
+    second: braceee-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 6813774738739183328
+    second: braceee-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 4003072887523568153
+    second: braceee-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 428366463793846884
+    second: braceee-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 298715923388554908
+    second: braceee-ezgif.com-gif-to-sprite-converter_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: braceee-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e6004dcacf6b70800000000000000
+      internalID: 8894550771971318215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braceee-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ea79b991ce3d00800000000000000
+      internalID: 954413037035118649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braceee-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b157fd99c1c6cb0800000000000000
+      internalID: -4869485649889780865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 08d0eeb8302ad284c98f442d8975ea7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":355.0,"y":261.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      braceee-ezgif.com-gif-to-sprite-converter_0: 8894550771971318215
+      braceee-ezgif.com-gif-to-sprite-converter_1: 954413037035118649
+      braceee-ezgif.com-gif-to-sprite-converter_2: -4869485649889780865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

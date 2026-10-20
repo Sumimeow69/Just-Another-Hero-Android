@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: dc0534760ec9bc6499293704cddfa529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3552992413715216010
+    second: slamite-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 8022370098517632341
+    second: slamite-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 1979549554191065797
+    second: slamite-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 5723341924325091389
+    second: slamite-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 3755603311705147906
+    second: slamite-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -3619783738964077989
+    second: slamite-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -7682779430090510029
+    second: slamite-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 7131163155451100608
+    second: slamite-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 2603137464623111990
+    second: slamite-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -4440155536353923346
+    second: slamite-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 6061507673213140776
+    second: slamite-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8226531576679352468
+    second: slamite-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -4439032659127334632
+    second: slamite-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 1323962137925530127
+    second: slamite-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -8483662639490093545
+    second: slamite-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 9211583240931694968
+    second: slamite-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 4307026963529415939
+    second: slamite-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -8622625643613942267
+    second: slamite-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 6401893868230993766
+    second: slamite-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 4683170710351991994
+    second: slamite-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -1541076184393339633
+    second: slamite-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 8158985252075535479
+    second: slamite-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 8056005981799950362
+    second: slamite-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 5386836671635782579
+    second: slamite-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 2321715214419634588
+    second: slamite-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 5653669958339757396
+    second: slamite-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 1484185482577396739
+    second: slamite-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 1981058609734195925
+    second: slamite-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 1086779624863701289
+    second: slamite-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 7180034171084668
+    second: slamite-ezgif.com-gif-to-sprite-converter_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slamite-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c8da693c31bec0800000000000000
+      internalID: -3552992413715216010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slamite-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ebdaa91f255f60800000000000000
+      internalID: 8022370098517632341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slamite-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c267d8d4d5c87b10800000000000000
+      internalID: 1979549554191065797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b14074a870455c4d9425606f1f8b572
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":355.0,"y":261.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      slamite-ezgif.com-gif-to-sprite-converter_0: -3552992413715216010
+      slamite-ezgif.com-gif-to-sprite-converter_1: 8022370098517632341
+      slamite-ezgif.com-gif-to-sprite-converter_2: 1979549554191065797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

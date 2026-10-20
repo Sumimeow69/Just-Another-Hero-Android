@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: ddf26bbe47d946945a99bd6da933257e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 483565050443987454
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -8157328910836062474
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 1075080391939196947
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 1692217332892322844
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 2105928946745528226
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 5667762693866296316
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -7109927686191372607
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 1079299340904291815
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -1988036486475410631
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 5329903208935267110
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 3821776819910667550
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 1024662619012064300
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 314036136884602468
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -907870858606637543
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -8369721147821283180
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -2111767152203966759
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 3834726106295780296
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 7495877359725436267
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 8066424655286625283
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 797791257192404597
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -8350323052506423560
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -1331541078689896103
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -4074079266746980562
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 7123331513703803197
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -7339828290232990915
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 4731651074195554521
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 1715416256344955596
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -6026961436569590045
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -2060232454293372842
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 573172260004522858
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 1223254073881856139
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -109626787851286614
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -3772908905990503513
+    second: LOGO1-ezgif.com-gif-to-sprite-converter_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOGO MENU_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba4afae7d336c249a3da1befcb85f43
+      internalID: -1026627809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO MENU_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da5539a83221e48a0bea2a24425039
+      internalID: -1144147256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO MENU_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d942331d215a7840aa2b0faf3162b7c
+      internalID: -901810315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1897285a675a1a043beb6435269f7a9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":355.0,"y":261.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      LOGO MENU_0: -1026627809
+      LOGO MENU_1: -1144147256
+      LOGO MENU_2: -901810315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

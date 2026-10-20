@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: f0d4a4920c1f1dc4898701bd6ea4bb99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6630398477143690894
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 7253665922886681287
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -3120640401793307961
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -4192862092221871711
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -449195280499914013
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 6898480579354220621
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -7818215626653315887
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 2134473156872178993
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -2256779127804313465
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 4973184952076691100
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 877803340045704440
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 5571951817414556131
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 8598941696462411190
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 656361803305159019
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -7626439091486299293
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 2453430356053271908
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 3154565247618007972
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -8111294771203230693
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -6985208259378029307
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -8148296482231165417
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 2573210124502693553
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -1522048436469946836
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 2345610875809099400
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -4996955980784702911
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 1617079722029840833
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 1489963713941595887
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 889393591880182523
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -5653072077173786596
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -7762877217962589653
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -2949466394507537036
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -1411235223393342468
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: -4209862264564143315
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 1906144891766229374
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -7767263812663530811
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -5717519032882522202
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 3450250748610418458
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -6867047037508991629
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 7216399866501107629
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 7535544957737767939
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 6016638153007677765
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 2756657019749315615
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -5413213120448815381
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -6788095606081156305
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 2808544290649414725
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: 2263801757886515530
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: 6611260704460996463
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -8003010592690231813
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 4123665669047066527
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -3702519969193933675
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 6979493715972391223
+    second: BATHATMAN2e-ezgif.com-gif-to-sprite-converter_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FONDO MOCKUP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945f1c2cc318b1408432224520f0db4
+      internalID: 1195310893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FONDO MOCKUP_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f781828aa4bc46bf7e154f897b48d
+      internalID: -1731472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FONDO MOCKUP_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 355
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcc4469e9ecf548a83360f4f876a09
+      internalID: 299509156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcaa301e6b5d55645b6baf9450ff9315
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":355.0,"y":261.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FONDO MOCKUP_0: 1195310893
+      FONDO MOCKUP_1: -1731472066
+      FONDO MOCKUP_2: 299509156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

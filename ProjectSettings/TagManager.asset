@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Llave
+  - Candado
+  - Recolectables
+  - SalidaEdif
+  - AVISOENTRA
+  - Suelo
+  - machinima
+  - outtutorial
+  - sector1
+  - MAKOTO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BACKground
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fondo papel
+    uniqueID: 1091532427
+    locked: 0
+  - name: background
+    uniqueID: 789855385
+    locked: 0
+  - name: partciles
+    uniqueID: 2665506223
+    locked: 0
+  - name: pisos
+    uniqueID: 467047135
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FORE
+    uniqueID: 3026014905
+    locked: 0
+  - name: ui
+    uniqueID: 3236584775
+    locked: 0
+  - name: Results
+    uniqueID: 2133035175
+    locked: 0
+  m_RenderingLayers:
+  - Default

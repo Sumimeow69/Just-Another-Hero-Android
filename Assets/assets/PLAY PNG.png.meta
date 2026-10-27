@@ -102,71 +102,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: play2-ezgif.com-gif-to-sprite-converter_0
+      name: PLAY PNG_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 522
-        width: 355
-        height: 261
+        x: 3
+        y: 591
+        width: 323
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 53001d6f0aef226c0800000000000000
-      internalID: -4169490337702543307
+      spriteID: 993a5c85e1e9789499d761eab723000a
+      internalID: -1980347467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: play2-ezgif.com-gif-to-sprite-converter_1
+      name: PLAY PNG_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 261
-        width: 355
-        height: 261
+        x: 4
+        y: 331
+        width: 321
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 116f9de47ed904180800000000000000
-      internalID: -9133126427521452527
+      spriteID: 8fba9f6f7209a65498073f05ccefcfe6
+      internalID: -844713538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: play2-ezgif.com-gif-to-sprite-converter_2
+      name: PLAY PNG_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 355
-        height: 261
+        x: 4
+        y: 69
+        width: 324
+        height: 110
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c500b21d51a0a8260800000000000000
-      internalID: 7100498851322855516
+      spriteID: f75764ecc79252a4d84527ed917cf408
+      internalID: 1574156015
       vertices: []
       indices: 
       edges: []
@@ -185,11 +198,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":355.0,"y":261.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      play2-ezgif.com-gif-to-sprite-converter_0: -4169490337702543307
-      play2-ezgif.com-gif-to-sprite-converter_1: -9133126427521452527
-      play2-ezgif.com-gif-to-sprite-converter_2: 7100498851322855516
+      PLAY PNG_0: -1980347467
+      PLAY PNG_1: -844713538
+      PLAY PNG_2: 1574156015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

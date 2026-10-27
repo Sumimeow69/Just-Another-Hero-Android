@@ -7946,6 +7946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pausa activa
       objectReference: {fileID: 0}
+    - target: {fileID: 633561651489983658, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2526692766290232527, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -8008,11 +8012,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2526692766290232527, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 9.76218
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2526692766290232527, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 10.99853
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2526692766290232527, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8025,6 +8029,10 @@ PrefabInstance:
     - target: {fileID: 2526692766290232527, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4681396727076333597, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 198.09998
       objectReference: {fileID: 0}
     - target: {fileID: 5274858332075958692, guid: 055bf22b81b3e7b40948107b255cb0c4, type: 3}
       propertyPath: m_Camera
